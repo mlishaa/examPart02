@@ -1,0 +1,10 @@
+Emp #	 Last Name 	 First Name 	 Time Worked 	 Hourly Wage 	 Pay 
+2745	Jane	Brown	13:43:00	8.5	$116.59
+1121	Brian	Smith	18:14:00	12.75	$232.48
+8343	Nora	Jones	14:45:00	15	$221.25
+4231	Allan	White	13:56:00	9	$125.40
+5566	Peter	Moss	01:00:00	13.45	$13.45
+2002	Mary	Clark	11:58:00	10	$119.67
+9223	Kim	Edwards	06:00:00	13	$78.00
+2341	Ann	Young	02:11:00	13	$28.38
+5342	Peter	Peters	35:42:00	15	$535.50

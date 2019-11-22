@@ -1,0 +1,7 @@
+C:\Users\ipd\source\repos\examPart02\examPart02\obj\Debug\examPart02.csprojAssemblyReference.cache
+C:\Users\ipd\source\repos\examPart02\examPart02\obj\Debug\examPart02.csproj.CoreCompileInputs.cache
+C:\Users\ipd\source\repos\examPart02\examPart02\bin\Debug\examPart02.exe.config
+C:\Users\ipd\source\repos\examPart02\examPart02\bin\Debug\examPart02.exe
+C:\Users\ipd\source\repos\examPart02\examPart02\bin\Debug\examPart02.pdb
+C:\Users\ipd\source\repos\examPart02\examPart02\obj\Debug\examPart02.exe
+C:\Users\ipd\source\repos\examPart02\examPart02\obj\Debug\examPart02.pdb
