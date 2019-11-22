@@ -33,7 +33,7 @@ namespace examPart02
             get => _minutes;
             set
             {
-                if (value < 0 || value > 60)
+                if (value < 0 || value >= 60)
                     throw new ArgumentException("Minutes can't be less zero or above 60");
                 _minutes = value;
             }
@@ -44,7 +44,7 @@ namespace examPart02
             get => _seconds;
             set
             {
-                if (value < 0 || value > 60)
+                if (value < 0 || value >= 60)
                     throw new ArgumentException("Seconds can't be less zero or above 60");
                 _seconds = value;
             }

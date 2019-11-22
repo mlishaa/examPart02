@@ -15,6 +15,7 @@ namespace examPart02
             private double rate;
             private int time;
         public TimeStamp timeStamp;
+         
             
        
 
@@ -60,7 +61,10 @@ namespace examPart02
 
             }
 
-   
+     
+    
+
+
 
 
     }
