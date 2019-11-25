@@ -13,7 +13,7 @@ namespace examPart02
     {
         static void Main(string[] args)
         {
-            // mike lishaa
+            // mike lishaad and naty
             List<Employee> employeeArray = new List<Employee>();
 
             generateEmployeeListFromFile(employeeArray, "emp.txt");
